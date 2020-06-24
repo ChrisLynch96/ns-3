@@ -1,0 +1,4 @@
+[submodule "src/ndnSIM"]
+	path = src/ndnSIM
+	url = https://github.com/ChrisLynch96/ndnSIM
+	branch = push-data
